@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sazzad ur Rahman
 #### Web Developer
-![Web Developer](https://img.freepik.com/free-psd/laptop-screen-with-website-presentation-mockup-isolated_359791-168.jpg?t=st=1658058244~exp=1658058844~hmac=33c12ac6de4abfe2c4be3aa3696a991b07712652bcb96128c48f52195918a199&w=1380)
+![Web Developer]
 
 I am a web developer. I mostly use javaScript and js frameworks like Node.js, react etc.I love programming and creative works.
 Personally I am an optimistic and honest individual and love learning new things.
