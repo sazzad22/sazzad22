@@ -6,8 +6,8 @@ Personally I am an optimistic and honest individual and love learning new things
 
 Skills: Node JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Problem Solvie 
-- 🌱 I’m currently learning Javascript 
+- 🔭 I’m currently working on Problem Solving
+- 🌱 I’m currently learning node.js,api,sql 
 - 💬 Ask me about My Projects 
 - 📫 How to reach me: sazzadurrahmanjoy1@gmail.com 
 - 😄 Pronouns: He/Him 
