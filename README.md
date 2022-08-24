@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Sazzad ur Rahman
-#### Web Developer
+#### fullstack web developer
 
 I am a web developer. I mostly use javaScript and js frameworks like Node.js, react etc.I love programming and creative works.
 Personally I am an optimistic and honest individual and love learning new things.
