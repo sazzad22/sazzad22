@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Sazzad ur Rahman
 #### fullstack web developer
 
-I am a web developer. I mostly use javaScript and js frameworks like Node.js, react etc.I love programming and creative works.
+I am a fullstack developer. I mostly use javaScript and js frameworks like Node.js, react etc.I love programming and creative works.
 Personally I am an optimistic and honest individual and love learning new things.
 
-Skills: Node JS / REACT / JS / HTML / CSS
+Skills: Node JS / Typescript /Express / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Problem Solving
-- 🌱 I’m currently learning node.js,api,sql 
+- 🔭 I’m currently working on Docker, Reverse-Proxies, Problem Solving etc
+- 🌱 I’m currently learning Backend Engineering 
 - 💬 Ask me about My Projects 
 - 📫 How to reach me: sazzadurrahmanjoy1@gmail.com 
 - 😄 Pronouns: He/Him 
