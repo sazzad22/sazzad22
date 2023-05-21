@@ -1,16 +1,15 @@
 ### Hi there 👋, I am Sazzad ur Rahman
 #### fullstack web developer
 
-I am a fullstack developer. I mostly use javaScript and js frameworks like Node.js, react etc.I love programming and creative works.
+I am a backend developer. I mostly use javaScript,python and js frameworks like Node.js,Django, React etc.I love programming and creative works.
 Personally I am an optimistic and honest individual and love learning new things.
 
-Skills: Node JS / Typescript /Express / REACT / JS / HTML / CSS
+Skills: Node JS / Typescript /Python /Django /Express / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Docker, Reverse-Proxies, Problem Solving etc
-- 🌱 I’m currently learning Backend Engineering 
+- 🔭 currently working on Docker, Reverse-Proxies, Problem Solving etc
+- 🌱 A student of learning Backend Engineering 
 - 💬 Ask me about My Projects 
 - 📫 How to reach me: sazzadurrahmanjoy1@gmail.com 
-- 😄 Pronouns: He/Him 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sazzad22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sazzad-ur-rahman-joy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sazzadurrahman0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio1-63aa8.firebaseapp.com/)  
